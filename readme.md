@@ -1,5 +1,5 @@
 ![badge](https://img.shields.io/badge/Live--class-Project-yellowgreen)
-# Rode Website Clone 👉 [Livelink](https://project-shopifyclone.netlify.app/)
+# Rode Website Clone 👉 [Livelink](https://rode-websiteclone.netlify.app/)
 
 - **My learning from this project**
 
